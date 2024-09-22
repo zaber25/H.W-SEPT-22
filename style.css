@@ -1,0 +1,24 @@
+/*Global CSS*/
+*{
+    font-size:35px;
+    font-weight:500;
+}
+/*Element selector*/
+h4{
+    color:aqua
+}
+/*Class  selector*/
+h2{
+    color:crimson;
+    font-size:27px
+}
+/*id selector*/
+h2 {
+    color:darkblue
+}
+/*Group Selector*/
+p {
+    color:darkturquoise;
+    font: size 31px;
+}
+
